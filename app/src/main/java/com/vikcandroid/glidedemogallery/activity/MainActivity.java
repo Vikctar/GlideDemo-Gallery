@@ -1,7 +1,9 @@
-package com.vikcandroid.glidedemogallery;
+package com.vikcandroid.glidedemogallery.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.vikcandroid.glidedemogallery.R;
 
 public class MainActivity extends AppCompatActivity {
 
